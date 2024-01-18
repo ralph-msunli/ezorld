@@ -1,0 +1,2 @@
+# ezorld
+dictionary
